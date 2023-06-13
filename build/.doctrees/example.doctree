@@ -1,0 +1,56 @@
+����sphinx.addnodes��document���)��}�(�	rawsource����children�]��docutils.nodes��section���)��}�(hhh]�(h	�title���)��}�(h�Это заголовок�h]�h	�Text����Это заголовок�����}�(�parent�h�	_document�h�source�N�line�Nuba�
+attributes�}�(�ids�]��classes�]��names�]��dupnames�]��backrefs�]�u�tagname�hhhhhh�%C:\VSprojects\Chat\source\example.rst�hKubh	�	paragraph���)��}�(hX�Заголовок содержит главную тему и отделяется символами '='.
+Их количество должно быть не меньше, чем количество символов
+в заголовке.
+Подзаголовок
+------------
+Подзаголовки отделяются символами '-'. Их количество должно
+быть тем же, что и количество символов в подзаголовке
+(как и в случае с заголовками).
+Списки могут быть маркированными:
+* Элемент Foo
+* Элемент Bar
+Или же автоматически пронумерованными:
+#. Элемент 1
+#. Элемент 2
+Внутренняя разметка
+-------------------
+Слова можно выделять *наклонным* или **полужирным** шрифтами.
+Фрагменты кода (например, примеры команд) можно заключать в обратные кавычки,
+например:
+команда ``sudo`` дает вам привилегии суперпользователя!�h]�(hXbЗаголовок содержит главную тему и отделяется символами ‘=’.
+Их количество должно быть не меньше, чем количество символов
+в заголовке.
+Подзаголовок
+————
+Подзаголовки отделяются символами ‘-’. Их количество должно
+быть тем же, что и количество символов в подзаголовке
+(как и в случае с заголовками).
+Списки могут быть маркированными:
+* Элемент Foo
+* Элемент Bar
+Или же автоматически пронумерованными:
+#. Элемент 1
+#. Элемент 2
+Внутренняя разметка
+——————-
+Слова можно выделять �����}�(hh/hhhNhNubh	�emphasis���)��}�(h�*наклонным*�h]�h�наклонным�����}�(hh9hhhNhNubah}�(h!]�h#]�h%]�h']�h)]�uh+h7hh/ubh� или �����}�(hh/hhhNhNubh	�strong���)��}�(h�**полужирным**�h]�h�полужирным�����}�(hhMhhhNhNubah}�(h!]�h#]�h%]�h']�h)]�uh+hKhh/ubh�� шрифтами.
+Фрагменты кода (например, примеры команд) можно заключать в обратные кавычки,
+например:
+команда �����}�(hh/hhhNhNubh	�literal���)��}�(h�``sudo``�h]�h�sudo�����}�(hhahhhNhNubah}�(h!]�h#]�h%]�h']�h)]�uh+h_hh/ubh�I дает вам привилегии суперпользователя!�����}�(hh/hhhNhNubeh}�(h!]�h#]�h%]�h']�h)]�uh+h-hh,hKhhhhubeh}�(h!]��id1�ah#]�h%]��это заголовок�ah']�h)]�uh+h
+hhhhhh,hKubah}�(h!]�h#]�h%]�h']�h)]��source�h,uh+h�current_source�N�current_line�N�settings��docutils.frontend��Values���)��}�(�output�NhN�	generator�N�	datestamp�N�source_link�N�
+source_url�N�
+toc_backlinks��entry��footnote_backlinks�K�
+sectnum_xform�K�strip_comments�N�strip_elements_with_classes�N�
+strip_classes�N�report_level�K�
+halt_level�K�exit_status_level�K�debug�N�warning_stream�N�	traceback���input_encoding��	utf-8-sig��input_encoding_error_handler��strict��output_encoding��utf-8��output_encoding_error_handler�h��error_encoding��utf-8��error_encoding_error_handler��backslashreplace��
+language_code��en��record_dependencies�N�config�N�	id_prefix�h�auto_id_prefix��id��
+dump_settings�N�dump_internals�N�dump_transforms�N�dump_pseudo_xml�N�expose_internals�N�strict_visitor�N�_disable_config�N�_source�h,�_destination�N�
+_config_files�]��file_insertion_enabled���raw_enabled�K�line_length_limit�M'�pep_references�N�pep_base_url��https://peps.python.org/��pep_file_url_template��pep-%04d��rfc_references�N�rfc_base_url��&https://datatracker.ietf.org/doc/html/��	tab_width�K�trim_footnote_reference_space���syntax_highlight��long��smart_quotes���smartquotes_locales�]��character_level_inline_markup���doctitle_xform���
+docinfo_xform�K�sectsubtitle_xform���
+image_loading��link��embed_stylesheet���cloak_email_addresses���section_self_link���env�Nub�reporter�N�indirect_targets�]��substitution_defs�}��substitution_names�}��refnames�}��refids�}��nameids�}�h~h{s�	nametypes�}�h~�sh!}�h{hs�
+footnote_refs�}��
+citation_refs�}��
+autofootnotes�]��autofootnote_refs�]��symbol_footnotes�]��symbol_footnote_refs�]��	footnotes�]��	citations�]��autofootnote_start�K�symbol_footnote_start�K�
+id_counter��collections��Counter���}�h�Ks��R��parse_messages�]��transform_messages�]��transformer�N�include_log�]��
+decoration�Nhhub.
